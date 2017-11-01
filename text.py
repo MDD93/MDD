@@ -13,7 +13,7 @@ def main():
     turtle.setup(1300, 800, 0, 0)
     pythonsize = 30
     turtle.pensize(pythonsize)
-    turtle.pencolor('blue')
+    turtle.pencolor("blue")
     turtle.seth(-40)
     drawSnake(40,80,5,pythonsize/2)
 
